@@ -1,0 +1,28 @@
+{
+    "preguntas": [
+      {
+        "id": 1,
+        "texto": "¿Alguna vez has estado en una pelea física?"
+          },
+      {
+        "id": 2,
+        "texto": "¿Hay algún objetivo personal que le gustaría alcanzar en los próximos cinco años?"
+      },
+      {
+        "id": 3,
+        "texto": "¿Te consideras bueno con el dinero?"
+      },
+      {
+        "id": 4,
+        "texto": "¿Crees que existe una mentira \"inofensiva\"?"
+      },
+      {
+        "id": 5,
+        "texto": "¿Cuál es el mejor viaje que has hecho?"
+      },
+      {
+        "id": 6,
+        "texto": "¿Cuál es el peor viaje que has hecho?"
+      }
+    ]
+  }
